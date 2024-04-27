@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/dskladanowsky/dskladanowsky/blob/main/march2017.gif)
 <!--
 **dskladanowsky/dskladanowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
