@@ -1,5 +1,5 @@
 ### Hello World! 👋
-![](https://github.com/dskladanowsky/dskladanowsky/blob/main/Dino_non-birthday_version.gif)
+![](https://github.com/dskladanowsky/dskladanowsky/blob/main/hello-world.gif)
 
 📩 skladanowski.dariusz@gmail.com
 
