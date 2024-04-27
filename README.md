@@ -2,9 +2,13 @@
 ![](https://github.com/dskladanowsky/dskladanowsky/blob/main/Dino_non-birthday_version.gif)
 
 📩 skladanowski.dariusz@gmail.com
+
 🎓 Computer Science student at **Białystok University of Technology** actively seeking opportunities
+
 💻 Proficient in data analysis and data cleaning using **Excel**, **Python** and **SQL**
+
 📊 Skilled in data visualization using **Power BI**
+
 ⚙️ Experienced in predictive modeling using **Scikit-Learn**
 
 <!--
