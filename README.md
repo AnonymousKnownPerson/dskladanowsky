@@ -1,8 +1,13 @@
-### Hi there 👋
-![](https://github.com/dskladanowsky/dskladanowsky/blob/main/march2017.gif)
-<!--
-**dskladanowsky/dskladanowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! 👋
+![](https://github.com/dskladanowsky/dskladanowsky/blob/main/Dino_non-birthday_version.gif)
 
+📩 skladanowski.dariusz@gmail.com
+🎓 Computer Science student at **Białystok University of Technology** actively seeking opportunities
+💻 Proficient in data analysis and data cleaning using **Excel**, **Python** and **SQL**
+📊 Skilled in data visualization using **Power BI**
+⚙️ Experienced in predictive modeling using **Scikit-Learn**
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
