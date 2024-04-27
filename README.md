@@ -1,4 +1,3 @@
-### Hello World! 👋
 ![](https://github.com/dskladanowsky/dskladanowsky/blob/main/hello-world.gif)
 
 📩 skladanowski.dariusz@gmail.com
